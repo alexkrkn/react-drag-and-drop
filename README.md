@@ -6,7 +6,7 @@ Don't forget to <a href="https://www.youtube.com/bitesizeacademy?sub_confirmatio
 
 # Live Demo
 
-⚡️ Try a live demo [here](https://github.com/alexkrkn/react-drag-and-drop)
+⚡️ [Try a live demo](https://alexkrkn.github.io/react-drag-and-drop/)
 
 # Run locally
 
